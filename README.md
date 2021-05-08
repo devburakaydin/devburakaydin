@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hello! I'm Burak</h1>
 
+<p align="center">
+<a href="https://play.google.com/store/apps/developer?id=Burak+Aydin" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
+</p>
+
 ### 💻 
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
@@ -18,10 +22,7 @@
 </a>
 </p>
 
-### 💻 Sosyal Hesaplarım
 
-<p align="left">
-<a href="https://play.google.com/store/apps/developer?id=Burak+Aydin" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
-</p>
+
 
 
