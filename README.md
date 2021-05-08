@@ -27,7 +27,7 @@
  <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java" />
  <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
  <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26" />
- <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=E34F26" />
+ <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
  
  
  
