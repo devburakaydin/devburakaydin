@@ -3,7 +3,10 @@
 <p align="center">
 <a href="https://play.google.com/store/apps/developer?id=Burak+Aydin" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
 </p>
-
+ 
+ 
+ 
+ 
 
 <h1 align="center">💻</h1>
 
@@ -15,6 +18,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+  
+  
+  
   
 
 <p align="center">
