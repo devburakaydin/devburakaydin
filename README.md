@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">👋 Hello! I'm Burak</h1>
 
 ### 🛠 
