@@ -34,7 +34,7 @@
 <p align="center">
 <a href="https://github.com/aydnburak">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aydnburak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aydnburak"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aydnburak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="aydnburak"/>
+  
 </a>
 </p>
 
