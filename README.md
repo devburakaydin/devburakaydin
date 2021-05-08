@@ -17,29 +17,10 @@
 </a>
 </p>
 
-### 🤝🏻 Social
+### 💻 Sosyal Hesaplarım
 
 <p align="left">
-<a href="https://stackoverflow.com/users/13600048/adem" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
-<a href="https://play.google.com/store/apps/developer?id=8433846548088741226" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
+<a href="https://play.google.com/store/apps/developer?id=Burak+Aydin" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
 </p>
 
 
-
-
-
-
-<!--
-**aydnburak/aydnburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
